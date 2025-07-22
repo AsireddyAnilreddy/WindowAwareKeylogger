@@ -18,3 +18,13 @@ This project is intended for learning and ethical research only.
 
 ## Usage
 Run `main.py` to start logging, and `view_logs.py` to view stored logs.
+
+## 📁 Project Structure
+WindowAwareKeylogger/
+│
+├── keylogger.py       # Main keylogger script
+├── keylogs.db         # SQLite database storing logs
+├── view_logs.py       # Log viewer script
+├── README.md          # Project description and usage
+└── .gitignore         # Git ignore rules
+
